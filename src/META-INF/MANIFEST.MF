@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Built-By: Simon
+Main-Class: Test_Api
+Class-Path: dom4j-1.6.1.jar

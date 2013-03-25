@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!--=======================================================================-->
+<!--    Taktus - ParameterDatei - -->
+<!--    Taktus - Version: 0.3-->
+<!--=======================================================================-->
+<Taktus>
+ <KLayout TaktLeer="0" BPanel="false" BAkkord="true" BorderSong="false" BorderDruck="flase"/>
+ <KUmgeb DirTaktus=""/>
+</Taktus>
